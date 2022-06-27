@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CountingLight on Github</title>
+    <link>http://countinglight.github.io/public/</link>
+    <description>Recent content on CountingLight on Github</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jun 2022 12:21:25 -0700</lastBuildDate><atom:link href="http://countinglight.github.io/public/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20220627 Firstpost</title>
+      <link>http://countinglight.github.io/public/posts/20220627-firstpost/</link>
+      <pubDate>Mon, 27 Jun 2022 12:21:25 -0700</pubDate>
+      
+      <guid>http://countinglight.github.io/public/posts/20220627-firstpost/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
