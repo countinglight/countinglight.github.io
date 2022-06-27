@@ -1,0 +1,5 @@
+baseURL = 'http://countinglight.github.io/public'
+languageCode = 'en-us'
+title = 'CountingLight on Github'
+
+theme = "introduction"

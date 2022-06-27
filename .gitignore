@@ -1,0 +1,15 @@
+.DS_Store
+
+node_modules/
+npm-debug.log
+yarn-error.log
+
+.hugo_build.lock
+
+# Bundle artifact
+*.jsbundle
+
+# CocoaPods
+/ios/Pods/
+
+template/plugins/typescript/template/tsconfig.json
